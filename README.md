@@ -6,8 +6,12 @@ Certificate (Drive Link) - https://drive.google.com/file/d/11kaxD6A51VMf7JM5oAJd
 
 This course contained a total of 30 (19 Assignments and 11 Case studies (including 2 self case studies)). Assignment .ipynb and .py files cannot be uploaded to public Github as per T&C, privacy policy & Plagiarism policies of Applied AI course.
 
+| S.No: | Self Case study |
+| ----  | --------- |
+| 1.    | Mercari price Recommendation | 
+| 2.    | Blindness detection (Eye retina Images) |  
 
-| S.No: | Case study | 
+| S.No: | Assignment / Case study | 
 | ----  | --------- |
 | 1.    | Quora question pair similarity | 
 | 2.    | Personalized cancer diagnosis |  
@@ -19,3 +23,5 @@ This course contained a total of 30 (19 Assignments and 11 Case studies (includi
 | 8.    | Human Activity detection (Smartwatch data) |
 | 9.    | Facebook Friend Recommendation (Graph featurizations) |
 | 10.   | Self Driving car | 
+| 11.   | All ML algorithms on Donors Choose dataset |
+
