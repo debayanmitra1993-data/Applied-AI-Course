@@ -22,7 +22,7 @@ This course contained a total of 30 (19 Assignments and 11 Case studies (includi
 | 6.    | Microsoft Malware detection | Google Cloud Platform (500 GB input data) |
 | 7.    | Stackoverflow Label Auto Tagging | Multi - label classification |
 | 8.    | Human Activity detection (Smartwatch data) | LSTM (Time series) |
-| 9.    | Facebook Friend Recommendation (Graph featurizations) | Python(NetworkX) |
+| 9.    | Facebook Friend Recommendation | Python(NetworkX) - Graph Featurizations |
 | 10.   | Self Driving car | Video output of CNN Model (Image framing) |
 | 11.   | All ML algorithms on Donors Choose dataset | TSNE,EDA,Clustering,Truncated SVD,Supervised Algorithms |
 
